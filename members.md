@@ -16,7 +16,7 @@ Assistant Professor
 
 **Yolanda Lopez**|
 :-------:|
-<img src="/member_images/blank.jpg" width="100">
+<img src="/member_images/blank.jpg" width="100"> |
 
 #### Postdoctoral Associates
 
