@@ -1,6 +1,7 @@
 ---
 layout: page
 title:
+sub-title: Lab Members
 use-site-title: false 
 ---
 
