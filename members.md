@@ -39,3 +39,5 @@ MS Student | MS Student
 <img src="member_images/esteban.jpg" width="200">  |  <img src="member_images/yolanda.jpg" width="200">
 Assistant Professor, PI | Biological Scientist
 
+
+<IMG BORDER="0" ALIGN="Left" SRC="member_images/esteban.jpg" width="200"> <b>Esteban Rios</b>, Assistant Professor
