@@ -93,3 +93,10 @@ Lab Manager
 **Crop modeling of alfalfa**
 
 * [Ken Bootee](http://ufrfprofessors.feed.research.ufl.edu/ufrf_professors/boote-kenneth-j/)
+
+
+## Members
+
+Esteban Rios             |  Yolanda Lopez
+:-------------------------:|:-------------------------:
+![](member_images/esteban.jpg)  |  ![](https://...Ocean.png)
