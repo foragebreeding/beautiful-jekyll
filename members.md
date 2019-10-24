@@ -16,6 +16,17 @@ Dev Paudel  | [Cleber de Souza](https://www.researchgate.net/profile/Cleber_Henr
 <img src="member_images/dev.jpg" width="200"> | <img src="member_images/cleber.jpg" width="200">
 Postdoctoral Associate | Postdoctoral Associate
 
+Janam Acharya  | Anju Biswas
+:------------:|:------------:
+<img src="member_images/janam.jpg" width="200"> | <img src="member_images/anju.jpg" width="200">
+MS Student | PhD Student
+
+
+Augusto Mendoza  | Adina Gaussman
+:------------:|:------------:
+<img src="member_images/augusto.jpg" width="200"> | <img src="member_images/adina.jpg" width="200">
+MS Student | MS Student
+
 ## Lab Alumni
 
 [Beatriz Gouveria](https://www.researchgate.net/profile/Beatriz_Gouveia3): Visiting Student 2019 (PhD Student, Universidade Federal de Lavras (UFLA), Lavras, Brazil)
