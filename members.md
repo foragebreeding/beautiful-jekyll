@@ -14,18 +14,18 @@ Assistant Professor, PI | Biological Scientist
 
 Dev Paudel  | [Cleber de Souza](https://www.researchgate.net/profile/Cleber_Henrique_De_Souza)
 :------------:|:------------:
-<img src="/member_images/dev.jpg" width="200"> | <img src="member_images/cleber.jpg" width="200">
+<img src="/member_images/dev.jpg" width="200"> | <img src="/member_images/cleber.jpg" width="200">
 Postdoctoral Associate | Postdoctoral Associate
 
 Janam Acharya  | Anju Biswas
 :------------:|:------------:
-<img src="member_images/janam.jpg" width="200"> | <img src="member_images/anju.jpg" width="200">
+<img src="/member_images/janam.jpg" width="200"> | <img src="/member_images/anju.jpg" width="200">
 MS Student | PhD Student
 
 
 Augusto Mendoza  | Adina Grossman
 :------------:|:------------:
-<img src="member_images/augusto.jpg" width="200"> | <img src="member_images/adina.jpg" width="200">
+<img src="/member_images/augusto.jpg" width="200"> | <img src="/member_images/adina.jpg" width="200">
 MS Student | MS Student
 
 ## Lab Alumni
@@ -39,12 +39,3 @@ MS Student | MS Student
 
 * [Ken Bootee](http://ufrfprofessors.feed.research.ufl.edu/ufrf_professors/boote-kenneth-j/)
 
-
-
-[Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
-:--------------:|:------------:
-<img src="member_images/esteban.jpg" width="200">  |  <img src="member_images/yolanda.jpg" width="200">
-Assistant Professor, PI | Biological Scientist
-
-
-<IMG BORDER="0" ALIGN="Left" SRC="member_images/esteban.jpg" width="200"> <b>Esteban Rios</b>, Assistant Professor
