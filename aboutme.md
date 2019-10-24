@@ -1,16 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title:  
+subtitle: Forage Breeding and Genetics Lab
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Welcome to Dr. Esteban Rios's Forage Breeding and Genetics Lab in the Agronomy Department at the University of Florida. Research in Dr. Rios’s program is dedicated to using traditional and modern plant breeding techniques to develop improved varieties of forages in Florida. This integrated approach combines plant breeding, quantitative genetics, molecular biology, cytogentics, crop modeling, crop mapping, and genomics to accelerate genetic gain in forages including alfalfa, ryegrass, clovers, and cowpea.
