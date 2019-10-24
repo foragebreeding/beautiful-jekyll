@@ -30,6 +30,8 @@ navbar-links:
   Publications: "https://scholar.google.com/citations?hl=en&user=xCyJ56wAAAAJ&view_op=list_works&sortby=pubdate"{:target="_blank" rel="noopener"}
 
   News: "news"
+  
+  Test: "test.md"
 
   Resources:
 
