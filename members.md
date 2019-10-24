@@ -6,12 +6,12 @@ subtitle: Lab members
 
 ## Current Members
 
-[Esteban Rios](https://foragebreeding.github.io/aboutme.md)             |  Yolanda Lopez
+[Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
 :--------------:|:------------:
 <img src="member_images/esteban.jpg" width="200">  |  <img src="member_images/yolanda.jpg" width="200">
 Assistant Professor, PI | Biological Scientist
 
-Dev Paudel  | Celeber de Souza
+Dev Paudel  | [Cleber de Souza](https://www.researchgate.net/profile/Cleber_Henrique_De_Souza)
 :------------:|:------------:
 <img src="member_images/dev.jpg" width="200"> | <img src="member_images/cleber.jpg" width="200">
 Postdoctoral Associate | Postdoctoral Associate
