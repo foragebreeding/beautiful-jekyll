@@ -8,12 +8,12 @@ subtitle: Lab members
 
 Esteban Rios             |  Yolanda Lopez
 :-------------------------:|:-------------------------:
-<img src="member_images/esteban.jpg" width="200"  |  <img src="member_images/yolanda.jpg" width="200">
+<img src="member_images/esteban.jpg" width="200">  |  <img src="member_images/yolanda.jpg" width="200">
 Assistant Professor, PI | Biological Scientist
 
 Dev Paudel  | Celeber de Souza
 :------------:|:------------:
-<img src="member_images/dev.jpg" width="200" | <img src="member_images/cleber.jpg" width="200">
+<img src="member_images/dev.jpg" width="200"> | <img src="member_images/cleber.jpg" width="200">
 Postdoctoral Associate | Postdoctoral Associate
 
 ## Lab Alumni
