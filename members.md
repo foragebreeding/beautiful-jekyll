@@ -41,3 +41,12 @@ Assistant Professor, PI | | Biological Scientist
 
 <img src="/member_images/esteban.jpg" width="100"> [Esteban Rios](https://foragebreeding.github.io/)   | |  <img src="/member_images/blank.jpg" width="100">
 
+
+
+#### Principal Investigator
+
+[Esteban Rios](https://foragebreeding.github.io/) | 
+:--------------:
+<img src="/member_images/esteban.jpg" width="100"> |
+Assistant Professor | 
+
