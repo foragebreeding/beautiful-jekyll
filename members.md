@@ -7,7 +7,7 @@ layout: page
 
 [Esteban Rios](https://foragebreeding.github.io/) |  | Yolanda Lopez
 :--------------:|:------------:|:------------:
-<img src="/member_images/esteban.jpg" width="100"> Assistant Professor  PI  | |  <img src="/member_images/blank.jpg" width="100">
+<img src="/member_images/esteban.jpg" width="100"> Assistant Professor\PI  | |  <img src="/member_images/blank.jpg" width="100">
 Assistant Professor, PI | | Biological Scientist
 
 Dev Paudel  | [Cleber de Souza](https://www.researchgate.net/profile/Cleber_Henrique_De_Souza) | Anju Biswas
