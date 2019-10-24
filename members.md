@@ -34,9 +34,10 @@ MS Student | MS Student | MS Student
 
 * [Ken Bootee](http://ufrfprofessors.feed.research.ufl.edu/ufrf_professors/boote-kenneth-j/)
 
-| | | |
-|-|-|-|
 [Esteban Rios](https://foragebreeding.github.io/)             |  | Yolanda Lopez
 :--------------:|:------------:|:-----------:
 <img src="/member_images/esteban.jpg" width="100">  | |  <img src="/member_images/blank.jpg" width="100">
 Assistant Professor, PI | | Biological Scientist
+
+<img src="/member_images/esteban.jpg" width="100"> [Esteban Rios](https://foragebreeding.github.io/)   | |  <img src="/member_images/blank.jpg" width="100">
+
