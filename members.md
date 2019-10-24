@@ -45,16 +45,17 @@ Assistant Professor, PI | | Biological Scientist
 
 #### Principal Investigator
 
-[Esteban Rios](https://foragebreeding.github.io/) | 
-:--------------:
-<img src="/member_images/esteban.jpg" width="100"> |
-Assistant Professor | 
+__[Esteban Rios]__(https://foragebreeding.github.io/)
+
+<img src="/member_images/esteban.jpg" width="100"> 
+
+Assistant Professor
 
 #### Biological Scientist
 
-Yolanda Lopez| 
-:--------------:
-<img src="/member_images/blank.jpg" width="100"> |
+__Yolanda Lopez __
+
+<img src="/member_images/blank.jpg" width="100">
 
 #### Postdoctoral Associates
 
