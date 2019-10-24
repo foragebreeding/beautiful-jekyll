@@ -22,7 +22,7 @@ Janam Acharya  | Anju Biswas
 MS Student | PhD Student
 
 
-Augusto Mendoza  | Adina Gaussman
+Augusto Mendoza  | Adina Grossman
 :------------:|:------------:
 <img src="member_images/augusto.jpg" width="200"> | <img src="member_images/adina.jpg" width="200">
 MS Student | MS Student
