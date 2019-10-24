@@ -53,7 +53,7 @@ Assistant Professor
 
 #### Biological Scientist
 
-__Yolanda Lopez __
+**Yolanda Lopez**
 
 <img src="/member_images/blank.jpg" width="100">
 
