@@ -6,8 +6,8 @@ subtitle: Lab members
 
 ## Current Members
 
-Esteban Rios             |  Yolanda Lopez
-:-------------------------:|:-------------------------:
+[Esteban Rios](https://foragebreeding.github.io/aboutme.md)             |  Yolanda Lopez
+:--------------:|:------------:
 <img src="member_images/esteban.jpg" width="200">  |  <img src="member_images/yolanda.jpg" width="200">
 Assistant Professor, PI | Biological Scientist
 
