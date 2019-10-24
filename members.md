@@ -4,84 +4,17 @@ title:
 subtitle: Lab members
 ---
 
-<style>
-
-  .col2 {
-
-    columns: 2 200px;         /* number of columns and width in pixels*/
-
-    -webkit-column: 2 200px; /* chrome, safari */
-
-    -moz-columns: 2 200px;    /* firefox */
-
-  }
-
-  .col3 {
-
-    columns: 3 100px;
-
-    -webkit-columns: 3 100px;
-
-    -moz-columns: 3 100px;
-
-  }
-
-</style>
-
-
-
 ## Current Members
 
-<!-- break -->
+Esteban Rios             |  Yolanda Lopez
+:-------------------------:|:-------------------------:
+<img src="member_images/esteban.jpg" width="200"  |  <img src="member_images/yolanda.jpg" width="200">
+Assistant Professor, PI | Biological Scientist
 
-<p><br> <!-- break --></p>
-
-<div class="col2">
-
-<!-- break -->
-
-<br>
-
-<!-- break -->
-
-
-<div style="float: left">  
-
-<img src="member_images/esteban.jpg" style="border:10px solid white" width="100px;">
-
-</div> 
-
-<b>Esteban Rios</b> 
-
-<a href="https://twitter.com/ForageBreeding"><img src="img/Twitter_logo_blue.png" style="width: 15px;"></a>
-
-Assistant Professor
-
-Agronomy Department
-
-<!-- break -->
-
-<br>
-
-<!-- break -->
-
-
-
-<div style="float: left">
-<img src="members/yolanda.jpeg" style="border:10px solid white" width="100px"></a>
-</div>
-
-<b>Yolanda Lopez</b> 
-
-Biological Scientist 
-
-Lab Manager
-
-<!-- break -->
-<br>
-<!-- break -->
-
-</div>
+Dev Paudel  | Celeber de Souza
+:------------:|:------------:
+<img src="member_images/dev.jpg" width="200" | <img src="member_images/cleber.jpg" width="200">
+Postdoctoral Associate | Postdoctoral Associate
 
 ## Lab Alumni
 
@@ -95,9 +28,4 @@ Lab Manager
 * [Ken Bootee](http://ufrfprofessors.feed.research.ufl.edu/ufrf_professors/boote-kenneth-j/)
 
 
-## Members
 
-Esteban Rios             |  Yolanda Lopez
-:-------------------------:|:-------------------------:
-![](member_images/esteban.jpg =100px)  |  <img src="member_images/esteban.jpg" width="200">
-Assistant Professor, PI | Biological Scientist
