@@ -1,9 +1,3 @@
----
-layout: page
-title:  
-subtitle: Lab members
----
-
 ## Current Members
 
 [Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
