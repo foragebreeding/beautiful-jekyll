@@ -5,7 +5,7 @@ subtitle: Members
 ---
 
 
-## Current Members 1
+## Current Members
 
 [Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
 :--------------:|:------------:
