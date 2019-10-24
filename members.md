@@ -51,11 +51,13 @@ subtitle: Lab members
 
 </div> 
 
-**Esteban Rios** 
+<b>Esteban Rios</b> 
 
-<a href="https://twitter.com/https://twitter.com/ForageBreeding"><img src="img/Twitter_logo_blue.png" style="width: 15px;"></a>
+<a href="https://twitter.com/ForageBreeding"><img src="img/Twitter_logo_blue.png" style="width: 15px;"></a>
 
-Esteban is an Assistant Professors in the Agronomy Department at the University of Florida.
+Assistant Professor
+
+Agronomy Department
 
 <!-- break -->
 
@@ -69,9 +71,11 @@ Esteban is an Assistant Professors in the Agronomy Department at the University 
 <img src="members/yolanda.jpeg" style="border:10px solid white" width="100px"></a>
 </div>
 
-**Yolanda Lopez** 
+<b>Yolanda Lopez</b> 
 
-Yolanda is a Biological Scientist and Lab Manager for the Forage Breeding and Genetics Lab.
+Biological Scientist 
+
+Lab Manager
 
 <!-- break -->
 <br>
