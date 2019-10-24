@@ -14,8 +14,8 @@ Assistant Professor
 
 #### Biological Scientist
 
-**Yolanda Lopez**
-
+**Yolanda Lopez**|
+:-------:|
 <img src="/member_images/blank.jpg" width="100">
 
 #### Postdoctoral Associates
