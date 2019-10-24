@@ -1,12 +1,14 @@
 ---
 layout: page
-title:  
-subtitle:  
+title:  ...
+subtitle:  ___
 ---
 
 
 ## Current Members
 
+| | | |
+|-|-|-|
 [Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
 :--------------:|:------------:
 <img src="/member_images/esteban.jpg" width="100">  |  <img src="/member_images/blank.jpg" width="100">
