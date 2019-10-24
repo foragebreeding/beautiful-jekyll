@@ -47,7 +47,7 @@ subtitle: Lab members
 
 <div style="float: left">  
 
-<img src="members/esteban.jpeg" style="border:10px solid white" width="100px;"></a>
+<img src="member_images/esteban.jpeg" style="border:10px solid white" width="100px;"></a>
 
 </div> 
 
