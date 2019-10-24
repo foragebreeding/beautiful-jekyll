@@ -99,5 +99,5 @@ Lab Manager
 
 Esteban Rios             |  Yolanda Lopez
 :-------------------------:|:-------------------------:
-![](member_images/esteban.jpg =100px)  |  ![](https://...Ocean.png)
+![](member_images/esteban.jpg =100px)  |  <img src="member_images/esteban.jpg" width="200">
 Assistant Professor, PI | Biological Scientist
