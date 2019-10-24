@@ -9,23 +9,23 @@ subtitle:
 
 [Esteban Rios](https://foragebreeding.github.io/)             |  Yolanda Lopez
 :--------------:|:------------:
-<img src="/member_images/esteban.jpg" width="200">  |  <img src="/member_images/blank.jpg" width="200">
+<img src="/member_images/esteban.jpg" width="100">  |  <img src="/member_images/blank.jpg" width="100">
 Assistant Professor, PI | Biological Scientist
 
 Dev Paudel  | [Cleber de Souza](https://www.researchgate.net/profile/Cleber_Henrique_De_Souza)
 :------------:|:------------:
-<img src="/member_images/dev.jpg" width="200"> | <img src="/member_images/cleber.jpg" width="200">
+<img src="/member_images/dev.jpg" width="100"> | <img src="/member_images/cleber.jpg" width="100">
 Postdoctoral Associate | Postdoctoral Associate
 
 Janam Acharya  | Anju Biswas
 :------------:|:------------:
-<img src="/member_images/blank.jpg" width="200"> | <img src="/member_images/blank.jpg" width="200">
+<img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100">
 MS Student | PhD Student
 
 
 Augusto Mendoza  | Adina Grossman
 :------------:|:------------:
-<img src="/member_images/blank.jpg" width="200"> | <img src="/member_images/blank.jpg" width="200">
+<img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100">
 MS Student | MS Student
 
 ## Lab Alumni
