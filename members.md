@@ -10,8 +10,7 @@ use-site-title: false
 __[Esteban Rios](https://foragebreeding.github.io/)__|
 :------:|
 <img src="/member_images/esteban.jpg" width="150"> |
-
-Assistant Professor|
+Assistant Professor
 
 #### Biological Scientist
 
