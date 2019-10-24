@@ -77,6 +77,8 @@ Yolanda is a Biological Scientist and Lab Manager for the Forage Breeding and Ge
 <br>
 <!-- break -->
 
+</div>
+
 ## Lab Alumni
 
 [Beatriz Gouveria](https://www.researchgate.net/profile/Beatriz_Gouveia3): Visiting Student 2019 (PhD Student, Universidade Federal de Lavras (UFLA), Lavras, Brazil)
