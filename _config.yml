@@ -23,16 +23,14 @@ navbar-links:
 
   Home: "aboutme"
 
-  Members: "members1"
+  Members: "members"
 
   Research: "research"
 
-  Publications: "https://scholar.google.com/citations?hl=en&user=xCyJ56wAAAAJ&view_op=list_works&sortby=pubdate"{:target="_blank" rel="noopener"}
+  Publications: "https://scholar.google.com/citations?hl=en&user=xCyJ56wAAAAJ&view_op=list_works&sortby=pubdate"
 
   News: "news"
   
-  Test: "test.md"
-
   Resources:
 
     - UF Agronomy: "https://agronomy.ifas.ufl.edu/"
