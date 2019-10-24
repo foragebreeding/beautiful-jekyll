@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Lab News
-subtitle: News
+title: 
+subtitle: 
+use-site-title: false 
 ---
+
+## NEWS
 
 #### 2019-10-24 
 
