@@ -68,3 +68,15 @@ Anju Biswas | Janam Acharya  | Adina Grossman | Augusto Mendoza
 :----------:|:------------:|:------------:|:----------:
 <img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100">
 PhD Student | MS Student | MS Student | MS Student 
+
+#### Staff
+
+Maricela Puluc | Ajaha Butler | 
+:----------:|:------------:|
+<img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100"> |
+
+#### Visiting Scholars
+
+Renata Santos | Giselle Assis  | Ronaldo Jr | 
+:----------:|:------------:|:------------:|
+<img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100"> | <img src="/member_images/blank.jpg" width="100">|
