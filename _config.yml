@@ -21,11 +21,9 @@ description: University of Florida
 # List of links in the navigation bar
 navbar-links:
 
-  Home: "aboutme"
+  Research: "research"
 
   Members: "members"
-
-  Research: "research"
 
   Publications: "https://scholar.google.com/citations?hl=en&user=xCyJ56wAAAAJ&view_op=list_works&sortby=pubdate"
 
