@@ -30,7 +30,7 @@ subtitle: Lab members
 
 
 
-## Current Forage Breeding and Genetics Lab members
+## Current Members
 
 <!-- break -->
 
