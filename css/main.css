@@ -261,7 +261,9 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 5px 0;
+  position:absolute;
+	bottom:0;
+  padding: 1px 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 10px;
   font-size: 10px;
